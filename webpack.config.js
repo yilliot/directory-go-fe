@@ -6,8 +6,8 @@ const ManifestPlugin = require('webpack-manifest-plugin');
 module.exports = {
   mode : 'development',
   entry: {
-    'app' : './src/index.js',
-    'vendor' : ['jquery', 'lodash', 'pixi.js']
+    'app' : './src/index.js'
+    // 'vendor' : ['jquery', 'lodash', 'pixi.js']
   },
   plugins: [
     new ManifestPlugin(),
