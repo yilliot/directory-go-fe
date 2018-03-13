@@ -1,0 +1,25 @@
+{
+  "name": "directory-go-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "pixi.js": "^4.7.0",
+    "semantic-ui": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yilliot/directory-go-fe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yilliot/directory-go-fe/issues"
+  },
+  "homepage": "https://github.com/yilliot/directory-go-fe#readme"
+}
