@@ -1,0 +1,4 @@
+{
+  "app.js": "app.bundle.js",
+  "vendor.js": "vendor.bundle.js"
+}
